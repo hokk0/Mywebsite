@@ -106,7 +106,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
+      url       = "https://github.com/hokk0"
   [[params.social]]
       icon      = "bluesky" # icon name without the 'fa-'
       icon_pack = "fab"
