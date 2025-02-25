@@ -1,2 +1,0 @@
-# Mywebsite
-Hugo website hopefully 
