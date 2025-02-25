@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Workshop on Hi, I&#39;m Ana</title>
+    <title>Workshop on Ana&#39;s Blog</title>
     <link>http://localhost:4321/categories/workshop/</link>
-    <description>Recent content in Workshop on Hi, I&#39;m Ana</description>
+    <description>Recent content in Workshop on Ana&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>

@@ -1,7 +1,7 @@
 baseURL = "https://www.example.org/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hi, I'm Ana"
+title = "Ana's Blog"
 author = "Ana Salgado Villa, Bsc Biochemistry Student"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""

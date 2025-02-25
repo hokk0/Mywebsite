@@ -2,8 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: This is a blog I have made so I can introduce myself better, beyond just a CV. I aim to share insights into
-my academic journey, research projects, and technical skills. Hopefully, they all grow enough to be worth talking about.
+description: This is a blog I have made so I can introduce myself better, beyond just a CV. I aim to share insights into my academic journey, research projects, and technical skills. Hopefully, they all grow enough to be worth talking about.
 image_left: true
 images:
 - img/revoir.jpg
